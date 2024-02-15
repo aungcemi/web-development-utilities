@@ -1,0 +1,210 @@
+AWSTemplateFormatVersion: 2010-09-09
+Resources:
+  Test1:
+    Type: 'AWS::S3::Bucket'
+  Test2:
+    Type: 'AWS::S3::Bucket'
+  Test3:
+    Type: 'AWS::S3::Bucket'
+  Test4:
+    Type: 'AWS::S3::Bucket'
+  Test5:
+    Type: 'AWS::S3::Bucket'
+  Test6:
+    Type: 'AWS::S3::Bucket'
+  Test7:
+    Type: 'AWS::S3::Bucket'
+  Test8:
+    Type: 'AWS::S3::Bucket'
+  Test9:
+    Type: 'AWS::S3::Bucket'
+  Test10:
+    Type: 'AWS::S3::Bucket'
+  Test11:
+    Type: 'AWS::S3::Bucket'
+  Test12:
+    Type: 'AWS::S3::Bucket'
+  Test13:
+    Type: 'AWS::S3::Bucket'
+  Test14:
+    Type: 'AWS::S3::Bucket'
+  Test15:
+    Type: 'AWS::S3::Bucket'
+  Test16:
+    Type: 'AWS::S3::Bucket'
+  Test17:
+    Type: 'AWS::S3::Bucket'
+  Test18:
+    Type: 'AWS::S3::Bucket'
+  Test19:
+    Type: 'AWS::S3::Bucket'
+  Test20:
+    Type: 'AWS::S3::Bucket'
+  Test21:
+    Type: 'AWS::S3::Bucket'
+  Test22:
+    Type: 'AWS::S3::Bucket'
+  Test23:
+    Type: 'AWS::S3::Bucket'
+  Test24:
+    Type: 'AWS::S3::Bucket'
+  Test25:
+    Type: 'AWS::S3::Bucket'
+  Test26:
+    Type: 'AWS::S3::Bucket'
+  Test27:
+    Type: 'AWS::S3::Bucket'
+  Test28:
+    Type: 'AWS::S3::Bucket'
+  Test29:
+    Type: 'AWS::S3::Bucket'
+  Test30:
+    Type: 'AWS::S3::Bucket'
+  Test31:
+    Type: 'AWS::S3::Bucket'
+  Test32:
+    Type: 'AWS::S3::Bucket'
+  Test33:
+    Type: 'AWS::S3::Bucket'
+  Test34:
+    Type: 'AWS::S3::Bucket'
+  Test35:
+    Type: 'AWS::S3::Bucket'
+  Test36:
+    Type: 'AWS::S3::Bucket'
+  Test3:
+    Type: 'AWS::S3::Bucket'
+  Test37:
+    Type: 'AWS::S3::Bucket'
+  Test38:
+    Type: 'AWS::S3::Bucket'
+  Test39:
+    Type: 'AWS::S3::Bucket'
+  Test40:
+    Type: 'AWS::S3::Bucket'
+  Test41:
+    Type: 'AWS::S3::Bucket'
+  Test42:
+    Type: 'AWS::S3::Bucket'
+  Test43:
+    Type: 'AWS::S3::Bucket'
+  Test44:
+    Type: 'AWS::S3::Bucket'
+  Test45:
+    Type: 'AWS::S3::Bucket'
+  Test46:
+    Type: 'AWS::S3::Bucket'
+  Test47:
+    Type: 'AWS::S3::Bucket'
+  Test48:
+    Type: 'AWS::S3::Bucket'
+  Test49:
+    Type: 'AWS::S3::Bucket'
+  Test50:
+    Type: 'AWS::S3::Bucket'
+  Test51:
+    Type: 'AWS::S3::Bucket'
+  Test52:
+    Type: 'AWS::S3::Bucket'
+  Test53:
+    Type: 'AWS::S3::Bucket'
+  Test54:
+    Type: 'AWS::S3::Bucket'
+  Test55:
+    Type: 'AWS::S3::Bucket'
+  Test56:
+    Type: 'AWS::S3::Bucket'
+  Test57:
+    Type: 'AWS::S3::Bucket'
+  Test58:
+    Type: 'AWS::S3::Bucket'
+  Test59:
+    Type: 'AWS::S3::Bucket'
+  Test60:
+    Type: 'AWS::S3::Bucket'
+  Test61:
+    Type: 'AWS::S3::Bucket'
+  Test62:
+    Type: 'AWS::S3::Bucket'
+  Test63:
+    Type: 'AWS::S3::Bucket'
+  Test64:
+    Type: 'AWS::S3::Bucket'
+  Test65:
+    Type: 'AWS::S3::Bucket'
+  Test66:
+    Type: 'AWS::S3::Bucket'
+  Test67:
+    Type: 'AWS::S3::Bucket'
+  Test68:
+    Type: 'AWS::S3::Bucket'
+  Test69:
+    Type: 'AWS::S3::Bucket'
+  Test70:
+    Type: 'AWS::S3::Bucket'
+  Test71:
+    Type: 'AWS::S3::Bucket'
+  Test72:
+    Type: 'AWS::S3::Bucket'
+  Test73:
+    Type: 'AWS::S3::Bucket'
+  Test74:
+    Type: 'AWS::S3::Bucket'
+  Test75:
+    Type: 'AWS::S3::Bucket'
+  Test76:
+    Type: 'AWS::S3::Bucket'
+  Test77:
+    Type: 'AWS::S3::Bucket'
+  Test78:
+    Type: 'AWS::S3::Bucket'
+  Test79:
+    Type: 'AWS::S3::Bucket'
+  Test80:
+    Type: 'AWS::S3::Bucket'
+  Test81:
+    Type: 'AWS::S3::Bucket'
+  Test82:
+    Type: 'AWS::S3::Bucket'
+  Test83:
+    Type: 'AWS::S3::Bucket'
+  Test84:
+    Type: 'AWS::S3::Bucket'
+  Test85:
+    Type: 'AWS::S3::Bucket'
+  Test86:
+    Type: 'AWS::S3::Bucket'
+  Test87:
+    Type: 'AWS::S3::Bucket'
+  Test88:
+    Type: 'AWS::S3::Bucket'
+  Test89:
+    Type: 'AWS::S3::Bucket'
+  Test90:
+    Type: 'AWS::S3::Bucket'
+  Test91:
+    Type: 'AWS::S3::Bucket'
+  Test92:
+    Type: 'AWS::S3::Bucket'
+  Test93:
+    Type: 'AWS::S3::Bucket'
+  Test94:
+    Type: 'AWS::S3::Bucket'
+  Test95:
+    Type: 'AWS::S3::Bucket'
+  Test96:
+    Type: 'AWS::S3::Bucket'
+  Test97:
+    Type: 'AWS::S3::Bucket'
+  Test98:
+    Type: 'AWS::S3::Bucket'
+  Test99:
+    Type: 'AWS::S3::Bucket'
+  Test100:
+    Type: 'AWS::S3::Bucket'
+  Test101:
+    Type: 'AWS::S3::Bucket'
+  Test102:
+    Type: 'AWS::S3::Bucket'
+  Test103:
+    Type: 'AWS::S3::Bucket'
